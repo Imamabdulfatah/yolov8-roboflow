@@ -1,0 +1,5 @@
+train: C:\Users\admin\Downloads\codeRoboflow\chilli-1/train/images
+val: C:\Users\admin\Downloads\codeRoboflow\chilli-1/valid/images
+
+nc: 1 # Jumlah kelas (misalnya, 1 untuk cabai)
+names: ["cabai"] # Nama kelas
